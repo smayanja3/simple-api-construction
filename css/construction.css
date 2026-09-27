@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 40px 20px;
+    color: #1a1a1a;
+    background:#0b3954;
+}
+
+/* --- Main card that holds everything --- */
+
+.app {
+    max-width: 700px;
+    margin: 0 auto;
+    background: #f4f7fa;
+    border-radius: 14px;
+    padding: 32px 32px 24px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    border-top: 6px solid #1c6ea4;
+}
+
+/* --- Header --- */
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 6px;
+    color: #0b3954;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+p {
+    color: #55636e;
+    line-height: 1.5;
+}
+
+/* --- Controls --- */
+
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+    padding: 14px 16px;
+    background: #e6eef3;
+    border-radius: 8px;
+}
+
+.controls label {
+    font-weight: 600;
+    color: #0b3954;
+}
+
+input{
+    padding: 8px 10px;
+    border: 1px solid #b7c7d1;
+    border-radius: 6px;
+    font-size: 1rem;
+    background: white;
+}
+
+button {
+    padding: 9px 18px;
+    border: none;
+    border-radius: 6px;
+    background: #1c6ea4;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #145a86;
+}
+
+.loading {
+    font-style: italic;
+    color: #7c8a94;
+}
+
+/* --- Results --- */
+
+#resultContainer {
+    margin-top: 20px;
+}
+
+.siteList {
+  list-style: none;
+  padding: 0;
+}
+
+.siteItem {
+  padding: 8px 12px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 9px;
+  font-family: sans-serif;
+}
+
+.siteItem:hover {
+  background: #0b3954;
+  color:white;
+}
