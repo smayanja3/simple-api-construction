@@ -48,7 +48,7 @@ function warning() {
                 acc[siteName].count +=1;
                 //print this information to the DOM
                 // look inside this element and find its current count. take it and print its content to the DOM/ 
-                acc[siteName].element.textContent = `${siteName.toUpperCase()}: ${acc[siteName].count}`
+                acc[siteName].element.textContent = ` Site: ${siteName.toUpperCase()}  Count: ${acc[siteName].count}`
                 
                 
                 //${siteName} prints the name of the site
