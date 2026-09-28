@@ -40,7 +40,7 @@ Instead of searching through large amounts of data manually, the application ret
 
 ## 📸 Project Preview
 
-![Simple USGS Flood Data Monitor](ADD-YOUR-IMAGE-PATH-HERE)
+![Simple USGS Flood Data Monitor](construction.png)
 
 ---
 
