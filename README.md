@@ -25,22 +25,6 @@ Instead of searching through large amounts of data manually, the application ret
 
 ---
 
-## 🏗️ Who Is It For?
-
-This application was designed with **construction sites and construction teams** in mind.
-
-Flood information can help teams stay aware of conditions that may affect:
-
-- Construction sites
-- Structures
-- Work areas
-- Site safety
-- Daily operations
-
-By selecting a specific date, users can quickly review the flood information returned for that day.
-
----
-
 ## 🛠️ Built With
 
 - HTML
@@ -75,20 +59,6 @@ Some of the skills I practiced include:
 - Using JavaScript array methods
 - Dynamically displaying information in the DOM
 - Building an application around a real-world construction use case
-
----
-
-## 🚀 Future Improvements
-
-Future versions of this application could include:
-
-- Filtering results by state or region
-- Allowing users to search for a specific construction site
-- Adding different warning levels
-- Color-coding warnings based on severity
-- Displaying flood locations on a map
-- Creating alerts for potentially dangerous conditions
-- Saving previous searches for construction teams
 
 ---
 
