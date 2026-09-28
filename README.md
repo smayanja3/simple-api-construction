@@ -105,9 +105,3 @@ git clone ADD-GITHUB-REPO-LINK-HERE
 4. Select a date to view flood data and warnings for that day! 🌊🏗️
 
 Thanks for checking out my project! 🏗️🌊✨
-
----
-
-## 🔗 Links
-
-- **GitHub Repository:** [Simple USGS Flood Data Monitor](https://github.com/smayanja3/simple-api-construction.git)
