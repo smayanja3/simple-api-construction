@@ -81,12 +81,6 @@ button:hover {
     background: #145a86;
 }
 
-.loading {
-    font-style: italic;
-    color: #7c8a94;
-}
-
-
 #resultContainer {
     margin-top: 20px;
 }
